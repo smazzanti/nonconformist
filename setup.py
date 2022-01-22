@@ -6,7 +6,7 @@ import nonconformist
 setup(
 	name = 'nonconformist_test',
 	packages = ['nonconformist'],
-	version = nonconformist.__version__,
+	version = 'mario',
 	description = 'Python implementation of the conformal prediction framework.',
 	author = 'Henrik Linusson',
 	author_email = 'henrik.linusson@gmail.com',
